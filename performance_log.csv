@@ -1,0 +1,4 @@
+timestamp,resolution,samples_per_pixel,gpu_count,render_time_sec,avg_gpu_time_sec,pixels_per_sec,samples_per_sec,gpu_info
+2025-08-05 23:13:39,1024x576,100,1,0.184929,0.00135219,4.36198e+08,4.36198e+10,"NVIDIA GeForce GTX 1060 6GB (0.00135219s)"
+timestamp,resolution,samples_per_pixel,gpu_count,render_time_sec,avg_gpu_time_sec,pixels_per_sec,samples_per_sec,gpu_info
+2025-08-05 23:18:00,1024x576,100,1,106.513,106.361,5545.48,554548,"NVIDIA GeForce GTX 1060 6GB (106.361s)"
